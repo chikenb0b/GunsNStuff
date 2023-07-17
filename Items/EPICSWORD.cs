@@ -2,7 +2,7 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-
+//hey yall lemme say hey yall
 namespace GunsNStuff.Items
 {
 	public class EPICSWORD : ModItem
