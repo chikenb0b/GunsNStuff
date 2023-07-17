@@ -1,3 +1,4 @@
+//hello john this is a test
 using Terraria;
 using Terraria.ModLoader;
 using Terraria.ID;
