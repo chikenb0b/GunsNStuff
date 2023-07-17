@@ -1,0 +1,3 @@
+displayName = Guns 'N Stuff
+author = Chikenbob
+version = 0.2
