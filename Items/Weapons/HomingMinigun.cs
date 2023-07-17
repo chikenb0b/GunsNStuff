@@ -1,3 +1,5 @@
+//hello john this is a test
+//haqhah funni i hate this
 using Terraria;
 using Terraria.ModLoader;
 using Terraria.ID;
